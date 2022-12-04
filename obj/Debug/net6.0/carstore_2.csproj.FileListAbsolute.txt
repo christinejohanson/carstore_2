@@ -1,0 +1,15 @@
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/bin/Debug/net6.0/carstore_2
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/bin/Debug/net6.0/carstore_2.deps.json
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/bin/Debug/net6.0/carstore_2.runtimeconfig.json
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/bin/Debug/net6.0/carstore_2.dll
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/bin/Debug/net6.0/carstore_2.pdb
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.csproj.AssemblyReference.cache
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.AssemblyInfoInputs.cache
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.AssemblyInfo.cs
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.csproj.CoreCompileInputs.cache
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.dll
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/refint/carstore_2.dll
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.pdb
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/carstore_2.genruntimeconfig.cache
+/Users/christinejohanson/Documents/Skola2022/02_C#/carstore_2/obj/Debug/net6.0/ref/carstore_2.dll
